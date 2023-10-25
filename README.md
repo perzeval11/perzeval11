@@ -1,5 +1,8 @@
 - ola, meu nome é Tiago Polato, e sou aluno do 1° ano do ensino médio~~{
-- e irei falar um pouco sobre minha pessoa. \0/
+- e eu irei falar um pouco sobre minha pessoa. \0/
 - Atualmente tenho 16 anos, sou alguem calmo e bem quieto, gosto de ler hitórias, de desenhar e de tudo quer tipo de plantas.
-- será que no futuro serei um arquiteto ou agronomo!?
-- uma das coisas que ainda não sei.
+- será que no futuro serei um Arquiteto ou um Agronomo!?
+- uma das coisas que ainda não sei.(0-0)/
+- mas o futuro é algo no qual fico curioso para saber em que tipo de pessoa irei me torna.
+- e quais serão as novidades que irei descobrir com o passar do tempo.
+- atualmente estou aprendendo a como utilizar o GitHub e mais em frente espero ter aprentido e por em pratica esse conhecimento.!!
